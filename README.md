@@ -28,4 +28,4 @@ _Make sure you replace `/homer/www` with the location of **your** www folder._
 
 ### 3. Go to your Homers IP and port and see the result!
 
-#### To further customize the Dashboard, see the Wiki!
+#### To further customize the Dashboard, see the (Wiki)[https://github.com/WalkxCode/Homer-Theme/wiki]!
