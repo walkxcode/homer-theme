@@ -21,8 +21,17 @@
 </p>
 
 ## Table of Contents
+- [All Changes(#all-changes)
 - [Getting Started](#getting-started)
 - [Extra Configuration](docs/extra-configuration.md)
+
+## All changes
+- Custom font
+- Spacing between cards
+- Transparent cards
+- Custom tag colors
+- Custom wallpaper
+- No header
 
 ## Getting started!
 
