@@ -13,6 +13,8 @@
 <p align="center">
  <strong>
    •
+  <a href="#">Demo [Coming Soon]</a>
+   •
   <a href="#getting-started">Getting started</a>
    •
  </strong>
