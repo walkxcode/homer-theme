@@ -5,23 +5,22 @@ On the top-right of Homer, you can find an icon to toggle dark-mode. Click it un
 
 ### 2. Getting the assets files
 **Clone [this repo](https://github.com/WalkxCode/Homer-Theme). You can do this by running:**
-```bash
+```sh
 $ git clone https://github.com/WalkxCode/Homer-Theme.git
 ```
 **Now cd into the newly created folder.**
-```bash
-
+```sh
 $ cd Homer-Theme
 ```
 **And now for the final step move the `assets` folder into your Homers `www` folder.**
 
 You can find this directory by running
-```bash
+```sh
 $ sudo docker inspect -f '{{ .Mounts }}' homer
 ```
 
 **Move the folder by running**
-```bash
+```sh
 $ sudo mv assets /homer/www
 ```
 _Make sure you replace `/homer/www` with the location of **your** www folder._
