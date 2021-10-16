@@ -1,7 +1,8 @@
+# **Homer Theme**
 ![img](https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview.png?token=AQ7E3GREVKRKTQCF7RDD6CTBORDCY)
 
 
-# Getting started with Homer Theme!
+## Getting started with Homer Theme!
 
 ### 1. Making sure your Homer is on Darkmode
 On the top-right of Homer, you can find an icon to toggle dark-mode. Click it until the UI turns dark, and the icon looks like an empty circle!
