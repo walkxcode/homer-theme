@@ -21,7 +21,7 @@
 </p>
 
 ## Table of Contents
-- [All Changes(#all-changes)
+- [All Changes](#all-changes)
 - [Getting Started](#getting-started)
 - [Extra Configuration](docs/extra-configuration.md)
 
