@@ -13,7 +13,8 @@ $ git clone https://github.com/WalkxCode/Homer-Theme.git
 
 $ cd Homer-Theme
 ```
-**And now for the final step move the `assets` folder into your Homers `www` folder. You can find this directory by running**
+**And now for the final step move the `assets` folder into your Homers `www` folder.**
+You can find this directory by running
 ```bash
 $ sudo docker inspect -f '{{ .Mounts }}' homer
 ```
