@@ -1,3 +1,6 @@
+![img](https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview.png?token=AQ7E3GREVKRKTQCF7RDD6CTBORDCY)
+
+
 # Getting started with Homer Theme!
 
 ### 1. Making sure your Homer is on Darkmode
