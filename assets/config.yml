@@ -24,7 +24,7 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.5)
     link: "#3273dc"
     link-hover: "#ffdd57"
-    background-image: "../assets/index.jpeg"
+    background-image: "../assets/wallpaper.jpeg"
 
 services:
   - name: "//GitHub"
