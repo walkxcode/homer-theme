@@ -37,12 +37,6 @@
 
 Homer Theme is a theme for the [Homer Dashboard.](https://github.com/bastienwirtz/homer)
 
-### Making sure your Homer is on Darkmode
-
-On the top-right of Homer, you can find an icon to toggle dark-mode. Click it until the UI turns dark, and the icon looks like an empty circle!
-
-**Homer Theme will NOT work when using lightmode.**
-
 
 ### Getting the assets folder
 
