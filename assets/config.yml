@@ -25,6 +25,20 @@ colors:
     link: "#3273dc"
     link-hover: "#ffdd57"
     background-image: "../assets/wallpaper.jpeg"
+  light:
+    highlight-primary: "#181C3A"
+    highlight-secondary: "#181C3A"
+    highlight-hover: "#1F2347"
+    background: "#12152B"
+    card-background: "#181C3A"
+    text: "#eaeaea"
+    text-header: "#7C71DD"
+    text-title: "#fafafa"
+    text-subtitle: "#8B8D9C"
+    card-shadow: rgba(0, 0, 0, 0.5)
+    link: "#3273dc"
+    link-hover: "#ffdd57"
+    background-image: "../assets/wallpaper.jpeg"
 
 services:
   - name: "//GitHub"
