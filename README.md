@@ -81,4 +81,5 @@ $ sudo mv assets /homer/www
 _Make sure you replace `/homer/www` with the location of **your homers** www folder._
 
 
-### Go to your Homers IP and port and see the result!
+#### Go to your Homers IP and port and see the result!
+#### If it all works, start adding your services! And for more configuration check the [extra-configuration](docs/extra-configuration.md) page!
