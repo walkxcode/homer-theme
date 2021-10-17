@@ -65,12 +65,20 @@ You can find this directory by running
 $ sudo docker inspect -f '{{ .Mounts }}' homer
 ```
 
+**Before moving the folder, make sure to create a backup. You can do this by running**
+
+```sh
+$ sudo mv /homer/www/assets /homer/www/assets-backup
+```
+_Make sure you replace `/homer/www/assets` with the location of **your homers** www folder._
+
+
 Move the folder by running
 
 ```sh
 $ sudo mv assets /homer/www
 ```
-_Make sure you replace `/homer/www` with the location of **your** www folder._
+_Make sure you replace `/homer/www` with the location of **your homers** www folder._
 
 
 ### Go to your Homers IP and port and see the result!
