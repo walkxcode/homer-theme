@@ -1,6 +1,60 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* raleway-regular - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/raleway-v22-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/raleway-v22-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/raleway-v22-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/raleway-v22-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/raleway-v22-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/raleway-v22-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/lato-v20-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/lato-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/lato-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/lato-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/lato-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/lato-v20-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-700 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./fonts/lato-v20-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/lato-v20-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/lato-v20-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/lato-v20-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/lato-v20-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/lato-v20-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-900 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./fonts/lato-v20-latin-900.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/lato-v20-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/lato-v20-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/lato-v20-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/lato-v20-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/lato-v20-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
+}
 
 /* Sets the group title to be a bolder font */
 .group-title {
