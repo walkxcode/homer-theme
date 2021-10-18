@@ -44,6 +44,7 @@
 - Custom tag colors
 - Custom wallpaper
 - No header
+- Offline Fonts
 
 ## v2 changes
 - Added Light mode
