@@ -1,9 +1,14 @@
-<h1 align="center">
+<p align="center">
  <img
   alt="Homer Theme"
   src="https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview.png">
+ <p align="center">
+  This is v2 of Homer Theme, v1 is available <a href="https://github.com/WalkxCode/Homer-Theme/tree/v1">here.</a>
+</p>
+</p>
+<h1 align="center">
     <br/>
-    Homer Theme
+    Homer Theme v2
 </h1>
 
 <h4 align="center">
