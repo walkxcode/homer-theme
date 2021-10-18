@@ -84,15 +84,27 @@ body #app .message {
   opacity: 80%;
 }
 
-/* Adds more border radius to the cards */
+ /*Adds more border radius to the cards */
 body .layout-vertical .column div:first-of-type .card {
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 body .layout-vertical .card {
-  border-radius: 0.5rem;
+  border-radius: 1rem;
+}
+.card {
+    border-radius: 1rem;
 }
 
-/* Removes the header */
-#bighead {
-  display: none;
+/* Changes Header Opacity */
+body #bighead .navbar {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+body .search-bar input {
+    opacity: 20%;
+}
+
+body #bighead .navbar a:focus, body #bighead .navbar a:hover {
+   background-color: rgba(0, 0, 0, 0);
+   color: var(--link-hover);
 }
