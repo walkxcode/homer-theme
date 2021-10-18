@@ -38,6 +38,14 @@ colors:
     background-image: "../assets/wallpaper.jpeg" # Change wallpaper.jpeg to the name of your own custom wallpaper!
 ```
 
+## Custom column amount
+You can change the amount of columns by changing the following line:
+
+```yaml
+columns: "3" # You can change this to any number that is a factor of 12: (1, 2, 3, 4, 6, 12)
+theme: default
+```
+
 ## Custom icons
 You can get custom icons for your Homer dashboard [here](https://github.com/WalkxCode/dashboard-icons).
 
