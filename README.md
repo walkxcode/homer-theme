@@ -1,10 +1,16 @@
 <p align="center">
- <img
-  alt="Homer Theme"
-  src="https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview.png">
+ <details open>
+  <summary>Dark mode preview!</summary>
+   <img alt="Homer Theme" src="https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview.png">
+ </details>
+ <details>
+  <summary>Light mode preview!</summary>
+   <img alt="Homer Theme" src="https://raw.githubusercontent.com/WalkxCode/Homer-Theme/main/preview-light.png">
+ </details>
  <p align="center">
   This is v2 of Homer Theme, v1 is available <a href="https://github.com/WalkxCode/Homer-Theme/tree/v1">here.</a>
 </p>
+
 </p>
 <h1 align="center">
     <br/>
@@ -27,6 +33,7 @@
 
 ## Table of Contents
 - [All Changes](#all-changes)
+- [v2 Changes](#v2-changes)
 - [Getting Started](#getting-started)
 - [Extra Configuration](docs/extra-configuration.md)
 
@@ -37,6 +44,13 @@
 - Custom tag colors
 - Custom wallpaper
 - No header
+
+## v2 changes
+- Added Light mode
+- More rounded corners
+- Added settings header
+- Changed GitHub Icon
+- Offline Fonts
 
 ## Getting started!
 
