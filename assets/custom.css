@@ -94,6 +94,9 @@ body .layout-vertical .card {
 .card {
     border-radius: 1rem;
 }
+body .layout-vertical .column div:last-of-type .card { 
+    border-radius: 1rem; 
+}
 
 /* Changes Header Opacity */
 body #bighead .navbar {
