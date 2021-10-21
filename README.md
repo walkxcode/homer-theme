@@ -1,3 +1,4 @@
+![https://github.com/WalkxCode/md/blob/main/donate.md](https://img.shields.io/static/v1?label=Donate&message=Crypto&color=f7931a&style=flat-square)
 <p align="center">
  <details open>
   <summary>Dark mode preview!</summary>
