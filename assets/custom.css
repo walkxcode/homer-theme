@@ -111,3 +111,7 @@ body #bighead .navbar a:focus, body #bighead .navbar a:hover {
    background-color: rgba(0, 0, 0, 0);
    color: var(--link-hover);
 }
+
+.image img {
+  border-radius: 5px;
+}
