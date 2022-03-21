@@ -1,5 +1,3 @@
-### Better Docs available [here.](https://wiki.walkx.org/en/Docs/homer-theme)
-
 <p align="center">
  <details open>
   <summary>Dark mode preview!</summary>
