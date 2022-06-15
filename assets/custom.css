@@ -77,13 +77,6 @@ body #app .card-content {
   margin-bottom: 0.75rem;
 }
 
-/* Turns the opacity of the cards down to 80% */
-body #app .card,
-body #app .card:hover,
-body #app .message {
-  opacity: 80%;
-}
-
  /*Adds more border radius to the cards */
 body .layout-vertical .column div:first-of-type .card {
   border-radius: 1rem;
