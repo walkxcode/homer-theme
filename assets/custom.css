@@ -92,7 +92,7 @@ body .layout-vertical .column div:last-of-type .card {
 }
 
 /* Changes Header Opacity */
-body #bighead .first-line{
+body #bighead .first-line {
   background-color: rgba(0, 0, 0, 0);
 }
 body #bighead .navbar {
